@@ -79,7 +79,7 @@ Minimal playmaking responsibility
 Pure finisher in structured attacking systems
 Elite off-ball movement in the box
 High dependency on chance creation systems
-👨‍💻 Author
+# Author
 
 Stephen Yaw Ayamah
 Football Data Analytics | Python | Streamlit | Sports Intelligence
