@@ -1,0 +1,11 @@
+football-scouting-dashboard/
+│
+├── app10.py
+├── haaland.jpg
+├── player-groups.csv
+├── player-groups (1).csv
+├── player-groups (2).csv
+├── player-groups (3).csv
+├── player-groups (4).csv
+├── requirements.txt
+└── .streamlit/config.toml
