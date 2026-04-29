@@ -64,7 +64,8 @@ Goals vs xG comparison
 Shot zone distribution
 Shot type efficiency
 Situation-based xG breakdown
-🧠 Scouting Summary
+
+# Scouting Summary
 
 Erling Haaland is a world-class penalty box striker who dominates central attacking zones through elite positioning and movement.
 
