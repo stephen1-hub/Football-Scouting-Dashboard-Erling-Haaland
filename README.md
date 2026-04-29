@@ -38,6 +38,9 @@ The goal is to replicate a **professional scouting report system (Opta-style)** 
 
 ---
 
+# Live Demo 
+
+
 ## 📁 Project Structure
 football-scouting-dashboard/
 │
