@@ -38,9 +38,6 @@ The goal is to replicate a **professional scouting report system (Opta-style)** 
 
 ---
 
-# Live Demo 
-
-
 ## 📁 Project Structure
 football-scouting-dashboard/
 │
@@ -53,3 +50,35 @@ football-scouting-dashboard/
 ├── player-groups (4).csv
 ├── requirements.txt
 └── .streamlit/config.toml
+
+🚀 Live Demo
+
+👉 (Add your Streamlit link here after deployment)
+
+📸 Dashboard Preview
+
+(Add screenshots of dashboard sections here)
+
+📊 Example Visuals
+Goals vs xG comparison
+Shot zone distribution
+Shot type efficiency
+Situation-based xG breakdown
+🧠 Scouting Summary
+
+Erling Haaland is a world-class penalty box striker who dominates central attacking zones through elite positioning and movement.
+
+He thrives in high-xG environments, consistently converting close-range chances at an elite level.
+
+⚠️ Profile Notes:
+Low creative output (xA involvement)
+Limited long-range shot volume
+Minimal playmaking responsibility
+⚽ Tactical Fit:
+Pure finisher in structured attacking systems
+Elite off-ball movement in the box
+High dependency on chance creation systems
+👨‍💻 Author
+
+Stephen Yaw Ayamah
+Football Data Analytics | Python | Streamlit | Sports Intelligence
