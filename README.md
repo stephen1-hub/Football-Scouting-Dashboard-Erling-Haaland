@@ -42,7 +42,7 @@ The goal is to replicate a **professional scouting report system (Opta-style)** 
 football-scouting-dashboard/
 │
 ├── app9.py
-├── haaland.jpg.webp
+├── haaland.jpg
 ├── player-groups.csv
 ├── player-groups (1).csv
 ├── player-groups (2).csv
