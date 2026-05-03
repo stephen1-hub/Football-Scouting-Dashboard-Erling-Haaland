@@ -57,7 +57,7 @@ https://football-scouting-dashboard-erling-haaland-4qobzi7mpnmxpcsbh9e.streamlit
 
 📸 Dashboard Preview
 
-(Add screenshots of dashboard sections here)
+<img width="1599" height="763" alt="image" src="https://github.com/user-attachments/assets/da3eacf6-f13b-46a8-8fa0-dd61c30ecf2f" />
 
 📊 Example Visuals
 Goals vs xG comparison
