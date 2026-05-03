@@ -53,7 +53,7 @@ football-scouting-dashboard/
 
 🚀 Live Demo
 
-👉 (Add your Streamlit link here after deployment)
+https://football-scouting-dashboard-erling-haaland-4qobzi7mpnmxpcsbh9e.streamlit.app/
 
 📸 Dashboard Preview
 
