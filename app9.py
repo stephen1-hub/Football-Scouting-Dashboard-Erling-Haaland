@@ -43,8 +43,8 @@ with col2:
 # -----------------------------
 # KPIs
 # -----------------------------
-total_goals = 24
-total_xg = 25.88
+total_goals = 25
+total_xg = 26.35
 total_xa = 4.86
 
 col1, col2, col3, col4 = st.columns(4)
@@ -81,23 +81,23 @@ st.markdown("---")
 # -----------------------------
 zone_df = pd.DataFrame({
     "zone": ["Out of box", "Penalty area", "Six-yard box"],
-    "shots": [13, 91, 12],
-    "goals": [1, 21, 2],
-    "xG": [0.86, 20.82, 4.20]
+    "shots": [13, 93, 12],
+    "goals": [1, 22, 2],
+    "xG": [0.86, 21.28, 4.20]
 })
 
 type_df = pd.DataFrame({
     "type": ["Left foot", "Head", "Right foot"],
-    "shots": [72, 29, 15],
-    "goals": [19, 3, 2],
-    "xG": [17.73, 4.11, 4.04]
+    "shots": [74, 29, 15],
+    "goals": [20, 3, 2],
+    "xG": [18.19, 4.11, 4.04]
 })
 
 situation_df = pd.DataFrame({
     "situation": ["Open play", "Corner", "Penalty", "Set piece"],
-    "shots": [97, 12, 4, 3],
-    "goals": [21, 0, 3, 0],
-    "xG": [20.33, 2.01, 3.04, 0.50]
+    "shots": [99, 12, 4, 3],
+    "goals": [22, 0, 3, 0],
+    "xG": [20.80, 2.01, 3.04, 0.50]
 })
 
 # -----------------------------
